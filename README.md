@@ -8,7 +8,7 @@
 ### Data and Code Availability Statement
 
 - Data Sources: Taiwan Economic Journal (TEJ)
-- Source Codes: [GitHub repository](https://github.com/kenpywang/)
+- Source Codes: [GitHub repository](https://github.com/kenpywang/fftaiwan)
 
 ### Machine Requirements
 
