@@ -1,0 +1,35 @@
+# Ignore Every Root File and Root Directory
+
+/*
+/*/
+
+# Execpt the Following Files and Directories
+
+!/.gitignore
+!/.dvcignore
+!/README.md
+!/*.do
+!/*.R
+!/*.Rmd
+!/*.py
+!/*.ipynb
+!/*.jl
+!/*.dvc
+!/*.yml
+!/*.bat
+/*_temp.do
+
+!/functions/
+/functions/__pycache__/
+!/data/
+/data/*
+/data/*/
+!/data/*.dvc
+!/reports/
+/reports/*
+/reports/*/
+!/reports/*.tex
+!/results/
+/results/*
+/results/*/
+!/results/*.dvc
